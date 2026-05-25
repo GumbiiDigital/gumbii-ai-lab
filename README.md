@@ -23,7 +23,7 @@ A public map of my local-first AI, agent, automation, and personal-intelligence 
 ### Local-first agents
 Experiments around personal assistants that run on user-controlled hardware and talk to local LLMs.
 
-- [Local-first G2 voice agent](docs/local-g2-agent-case-study.md) — private daily-driver build notes for an Even Realities G2 + spare Android + Mac Studio + Ollama workflow.
+- [even-g2-local-agent](https://github.com/GumbiiDigital/even-g2-local-agent) — local-first voice agent for Even Realities G2 glasses using Even Terminal Mode, Android, and Ollama.
 
 ### Wearable AI
 Voice-first interfaces and glanceable HUD workflows for lightweight, hands-free computing.
@@ -36,7 +36,7 @@ GPU and quantization experiments for running stronger models without depending o
 
 ## Selected projects
 
-- `local-g2-agent-case-study` — local-first G2 voice agent case study notes
+- [`even-g2-local-agent`](https://github.com/GumbiiDigital/even-g2-local-agent) — local-first G2 voice agent template
 - `spark-nvfp4-lab` — local GPU inference / NVFP4 experiments
 - `browser-harness` — browser automation research
 - `vibevoice` — open-source voice AI research
