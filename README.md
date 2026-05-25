@@ -23,6 +23,8 @@ A public map of my local-first AI, agent, automation, and personal-intelligence 
 ### Local-first agents
 Experiments around personal assistants that run on user-controlled hardware and talk to local LLMs.
 
+- [Local-first G2 voice agent](docs/local-g2-agent-case-study.md) — private daily-driver build notes for an Even Realities G2 + spare Android + Mac Studio + Ollama workflow.
+
 ### Wearable AI
 Voice-first interfaces and glanceable HUD workflows for lightweight, hands-free computing.
 
@@ -32,8 +34,9 @@ Agent-controlled workflows for research, coding, and daily operations.
 ### Local inference
 GPU and quantization experiments for running stronger models without depending on cloud APIs.
 
-## Selected repos
+## Selected projects
 
+- `local-g2-agent-case-study` — local-first G2 voice agent case study notes
 - `spark-nvfp4-lab` — local GPU inference / NVFP4 experiments
 - `browser-harness` — browser automation research
 - `vibevoice` — open-source voice AI research
